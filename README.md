@@ -1,8 +1,10 @@
 # Desktop calendar application using HTML, JavaScript, CSS
 View, create, edit appointments. Created using [Full Calendar](https://fullcalendar.io/), [jQuery](https://jquery.com/), and [Bootstrap](http://getbootstrap.com/).
-Front end only. Checkout [beginning Rails back end work](https://github.com/kaileeagray/kg_cal/tree/rails).
+Front end only
 
 ## Load
+
+https://floating-beyond-3733.herokuapp.com/
 
 + Clone repo.
 + Open index.html in your browser.
@@ -21,6 +23,3 @@ Front end only. Checkout [beginning Rails back end work](https://github.com/kail
 3. Click on the appointment you want to edit.
 4. A modal will appear. You can update the title or delete the event.
 
-
-#### Note: events do not persist.
-# BookingApp
