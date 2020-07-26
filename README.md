@@ -3,9 +3,6 @@ View, create, edit appointments. Created using [Full Calendar](https://fullcalen
 Front end only. Checkout [beginning Rails back end work](https://github.com/kaileeagray/kg_cal/tree/rails).
 
 ## Load
-+ visit [kg-cal on Heroku](https://kg-cal.herokuapp.com/)
-
--------- or --------
 
 + Clone repo.
 + Open index.html in your browser.
